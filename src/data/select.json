@@ -1,0 +1,68 @@
+{
+    "neighbourhoodlist": [
+        "Any neighbourhood",
+        "Gigiri",
+        "Runda",
+        "Rosslyn",
+        "Nyari",
+        "Muthaiga",
+        "Kitisuru",
+        "Spring Valley",
+        "Loresho",
+        "Lavington",
+        "Westlands",
+        "Kilimani",
+        "Karen"
+    ],
+    "budgetlist": [
+        "Any budget",
+        "Under $2,000/mo",
+        "$2,000 - $3,000/mo",
+        "$3,000 - $4,500/mo",
+        "$4,500 - $6,000/mo",
+        "$6,000+/mo"
+    ],
+    "bedslist": [
+        "Any",
+        "1+ bedrooms",
+        "2+ bedrooms",
+        "3+ bedrooms",
+        "4+ bedrooms",
+        "5+ bedrooms"
+    ],
+    "furnishinglist": [
+        "Any furnishing",
+        "Fully furnished",
+        "Semi-furnished",
+        "Unfurnished"
+    ],
+    "typelist": [
+        "Any type",
+        "Villa",
+        "House",
+        "Townhouse",
+        "Apartment"
+    ],
+    "schoollist": [
+        "Any school",
+        "International School of Kenya",
+        "Rosslyn Academy",
+        "Brookhouse School",
+        "German School Nairobi",
+        "Braeburn Garden Estate School",
+        "Hillcrest International School"
+    ],
+    "leaselist": [
+        "Any lease",
+        "6 months",
+        "12 months",
+        "24 months"
+    ],
+    "sortbylist": [
+        "Most relevant",
+        "Price: low to high",
+        "Price: high to low",
+        "Most bedrooms",
+        "Available soonest"
+    ]
+}

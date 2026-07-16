@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "link": "/search",
+        "linkText": "Find a home",
+        "icon": "search",
+        "child": false
+    },
+    {
+        "id": 2,
+        "link": "/relocation",
+        "linkText": "Relocation",
+        "icon": "sales-agent",
+        "child": false
+    },
+    {
+        "id": 3,
+        "link": "/consultants",
+        "linkText": "Consultants",
+        "icon": "sales-agent",
+        "child": false
+    },
+    {
+        "id": 4,
+        "link": "/about",
+        "linkText": "About",
+        "icon": "company",
+        "child": true,
+        "submenu": [
+            { "id": 41, "link": "/about", "linkText": "About us" },
+            { "id": 42, "link": "/faq", "linkText": "FAQ" },
+            { "id": 43, "link": "/contact", "linkText": "Contact" }
+        ]
+    },
+    {
+        "id": 5,
+        "link": "/shortlist",
+        "linkText": "Shortlist",
+        "icon": "bookmark",
+        "child": false
+    }
+]
